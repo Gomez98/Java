@@ -1,2 +1,2 @@
 # Java
-Making som proyects in order to practice 
+Making some proyects in order to practice 
